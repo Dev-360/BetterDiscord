@@ -1,7 +1,7 @@
     //META{"name":"Opera","description":"This Theme Is Made To Be Like The Opera Gaming Browser With Customisable Settings","author":"Dev 360 (GTAUpateLeak)","version":"0.0.1"}*//{}
     /* To change stuff like the colors, transparency and background image, change the variables inside the root {}, do NOT change the @import url() */
     
-    @import url();
+    @import url(https://github.com/Dev-360/BetterDiscord/blob/main/Themes/Opera%20Theme/Opera.css);
      :root {
         --transparencycolor: 0, 0, 0;
         /* default:	0,0,0																								*/
